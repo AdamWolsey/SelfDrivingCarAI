@@ -1,0 +1,42 @@
+# Unity-generated files to ignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio/JetBrains project files
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Auto-generated and backups
+*.bak
+*.backup
+*.tmp
+*.old
+*.orig
+*.swp
+*.lock
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.apk
+*.unitypackage
+*.asset
+
+# Do not ignore Asset files
+!Assets/**/*.asset
